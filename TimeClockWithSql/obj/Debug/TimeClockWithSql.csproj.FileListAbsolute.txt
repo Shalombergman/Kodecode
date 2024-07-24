@@ -1,0 +1,12 @@
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.csproj.AssemblyReference.cache
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.Form1.resources
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.Properties.Resources.resources
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.csproj.GenerateResource.cache
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.csproj.CoreCompileInputs.cache
+C:\kodcode2\c#\TimeClockWithSql\bin\Debug\TimeClockWithSql.exe.config
+C:\kodcode2\c#\TimeClockWithSql\bin\Debug\TimeClockWithSql.exe
+C:\kodcode2\c#\TimeClockWithSql\bin\Debug\TimeClockWithSql.pdb
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.exe
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.pdb
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.ChangePassword.resources
+C:\kodcode2\c#\TimeClockWithSql\obj\Debug\TimeClockWithSql.frmlerning.resources
