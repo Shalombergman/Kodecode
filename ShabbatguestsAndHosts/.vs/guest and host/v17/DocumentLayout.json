@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\kodcode2\\c#\\guests and hosts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\coontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B2D1BD-CFC6-4373-A38D-02C1E917213C}|guests.csproj|c:\\kodcode2\\c#\\guests and hosts\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B2D1BD-CFC6-4373-A38D-02C1E917213C}|guests.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B52DE-00BB-4B41-831C-F3B3B6219CDD}|..\\host\\host.csproj|c:\\kodcode2\\c#\\host\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B52DE-00BB-4B41-831C-F3B3B6219CDD}|..\\host\\host.csproj|c:\\kodcode2\\c#\\host\\hostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B52DE-00BB-4B41-831C-F3B3B6219CDD}|..\\host\\host.csproj|c:\\kodcode2\\c#\\host\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B52DE-00BB-4B41-831C-F3B3B6219CDD}|..\\host\\host.csproj|c:\\kodcode2\\c#\\host\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A095105-A891-4D02-A37A-E6366425EFD7}|..\\College\\College.csproj|c:\\kodcode2\\c#\\college\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B52DE-00BB-4B41-831C-F3B3B6219CDD}|..\\host\\host.csproj|c:\\kodcode2\\c#\\host\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B52DE-00BB-4B41-831C-F3B3B6219CDD}|..\\host\\host.csproj|c:\\kodcode2\\c#\\host\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coontroller.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Coontroller.cs",
+              "RelativeDocumentMoniker": "..\\College\\Coontroller.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Coontroller.cs",
+              "RelativeToolTip": "..\\College\\Coontroller.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDMAAAARAwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:31:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBconnection.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\host\\DBconnection.cs",
+              "RelativeDocumentMoniker": "..\\host\\DBconnection.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\host\\DBconnection.cs",
+              "RelativeToolTip": "..\\host\\DBconnection.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:45:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\College\\Form2.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Form2.cs",
+              "RelativeToolTip": "..\\College\\Form2.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:54:28.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\College\\Form3.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\College\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:01:35.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\College\\Form1.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Form1.cs",
+              "RelativeToolTip": "..\\College\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:38:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HostController.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\host\\HostController.cs",
+              "RelativeDocumentMoniker": "..\\host\\HostController.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\host\\HostController.cs",
+              "RelativeToolTip": "..\\host\\HostController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:38:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\guests and hosts\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\guests and hosts\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:57:26.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\College\\Form1.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\College\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:36:31.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\host\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\host\\Form2.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\host\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\host\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:12:48.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\host\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\host\\Form2.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\host\\Form2.cs",
+              "RelativeToolTip": "..\\host\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:12:52.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\College\\Form3.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Form3.cs",
+              "RelativeToolTip": "..\\College\\Form3.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:13:22.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBconection.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\DBconection.cs",
+              "RelativeDocumentMoniker": "..\\College\\DBconection.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\DBconection.cs",
+              "RelativeToolTip": "..\\College\\DBconection.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAwwH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:30:39.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\College\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\College\\Form2.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\College\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\College\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:54:29.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\host\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\host\\Form1.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\host\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\host\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:46:53.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\kodcode2\\c#\\host\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\host\\Form1.cs",
+              "ToolTip": "C:\\kodcode2\\c#\\host\\Form1.cs",
+              "RelativeToolTip": "..\\host\\Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:47:03.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

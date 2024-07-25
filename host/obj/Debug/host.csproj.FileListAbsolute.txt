@@ -1,0 +1,11 @@
+C:\kodcode2\c#\host\bin\Debug\host.exe.config
+C:\kodcode2\c#\host\bin\Debug\host.exe
+C:\kodcode2\c#\host\bin\Debug\host.pdb
+C:\kodcode2\c#\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\kodcode2\c#\host\obj\Debug\host.Form1.resources
+C:\kodcode2\c#\host\obj\Debug\host.Form2.resources
+C:\kodcode2\c#\host\obj\Debug\host.Properties.Resources.resources
+C:\kodcode2\c#\host\obj\Debug\host.csproj.GenerateResource.cache
+C:\kodcode2\c#\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\kodcode2\c#\host\obj\Debug\host.exe
+C:\kodcode2\c#\host\obj\Debug\host.pdb

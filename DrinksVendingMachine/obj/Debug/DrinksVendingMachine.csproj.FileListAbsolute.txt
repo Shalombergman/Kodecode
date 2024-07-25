@@ -1,0 +1,10 @@
+C:\kodcode2\Riposetory1\DrinksVendingMachine\bin\Debug\DrinksVendingMachine.exe.config
+C:\kodcode2\Riposetory1\DrinksVendingMachine\bin\Debug\DrinksVendingMachine.exe
+C:\kodcode2\Riposetory1\DrinksVendingMachine\bin\Debug\DrinksVendingMachine.pdb
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.csproj.AssemblyReference.cache
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.Form1.resources
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.Properties.Resources.resources
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.csproj.GenerateResource.cache
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.csproj.CoreCompileInputs.cache
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.exe
+C:\kodcode2\Riposetory1\DrinksVendingMachine\obj\Debug\DrinksVendingMachine.pdb

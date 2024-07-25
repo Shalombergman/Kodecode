@@ -1,0 +1,14 @@
+C:\kodcode2\c#\Practice Classes in C#\bin\Debug\net8.0\Practice Classes in C#.exe
+C:\kodcode2\c#\Practice Classes in C#\bin\Debug\net8.0\Practice Classes in C#.deps.json
+C:\kodcode2\c#\Practice Classes in C#\bin\Debug\net8.0\Practice Classes in C#.runtimeconfig.json
+C:\kodcode2\c#\Practice Classes in C#\bin\Debug\net8.0\Practice Classes in C#.dll
+C:\kodcode2\c#\Practice Classes in C#\bin\Debug\net8.0\Practice Classes in C#.pdb
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.AssemblyInfoInputs.cache
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.AssemblyInfo.cs
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.csproj.CoreCompileInputs.cache
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.dll
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\refint\Practice Classes in C#.dll
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.pdb
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\Practice Classes in C#.genruntimeconfig.cache
+C:\kodcode2\c#\Practice Classes in C#\obj\Debug\net8.0\ref\Practice Classes in C#.dll

@@ -1,0 +1,11 @@
+C:\kodcode2\c#\guests and hosts\bin\Debug\guests and hosts.exe.config
+C:\kodcode2\c#\guests and hosts\bin\Debug\guests and hosts.exe
+C:\kodcode2\c#\guests and hosts\bin\Debug\guests and hosts.pdb
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests.csproj.AssemblyReference.cache
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests_and_hosts.Form1.resources
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests_and_hosts.Form2ChoiceCategorey.resources
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests_and_hosts.Properties.Resources.resources
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests.csproj.GenerateResource.cache
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests.csproj.CoreCompileInputs.cache
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests and hosts.exe
+C:\kodcode2\c#\guests and hosts\obj\Debug\guests and hosts.pdb

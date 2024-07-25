@@ -1,0 +1,14 @@
+C:\kodcode2\c#\PublicArea\bin\Debug\net8.0\PublicArea.exe
+C:\kodcode2\c#\PublicArea\bin\Debug\net8.0\PublicArea.deps.json
+C:\kodcode2\c#\PublicArea\bin\Debug\net8.0\PublicArea.runtimeconfig.json
+C:\kodcode2\c#\PublicArea\bin\Debug\net8.0\PublicArea.dll
+C:\kodcode2\c#\PublicArea\bin\Debug\net8.0\PublicArea.pdb
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.AssemblyInfoInputs.cache
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.AssemblyInfo.cs
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.csproj.CoreCompileInputs.cache
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.dll
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\refint\PublicArea.dll
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.pdb
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\PublicArea.genruntimeconfig.cache
+C:\kodcode2\c#\PublicArea\obj\Debug\net8.0\ref\PublicArea.dll

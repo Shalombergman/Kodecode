@@ -1,0 +1,14 @@
+C:\kodcode2\c#\Learning_Console\bin\Debug\net8.0\Learning_Console.exe
+C:\kodcode2\c#\Learning_Console\bin\Debug\net8.0\Learning_Console.deps.json
+C:\kodcode2\c#\Learning_Console\bin\Debug\net8.0\Learning_Console.runtimeconfig.json
+C:\kodcode2\c#\Learning_Console\bin\Debug\net8.0\Learning_Console.dll
+C:\kodcode2\c#\Learning_Console\bin\Debug\net8.0\Learning_Console.pdb
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.AssemblyInfoInputs.cache
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.AssemblyInfo.cs
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.csproj.CoreCompileInputs.cache
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.dll
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\refint\Learning_Console.dll
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.pdb
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\Learning_Console.genruntimeconfig.cache
+C:\kodcode2\c#\Learning_Console\obj\Debug\net8.0\ref\Learning_Console.dll
