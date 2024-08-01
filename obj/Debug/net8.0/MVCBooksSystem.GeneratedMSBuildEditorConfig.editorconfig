@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCBooksSystem
+build_property.RootNamespace = MVCBooksSystem
+build_property.ProjectDir = C:\kodcode2\Core8\MvcCore8\MVCBooksSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\kodcode2\Core8\MvcCore8\MVCBooksSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/BookSets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1NldHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/BookSets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1NldHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/BookSets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1NldHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/BookSets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1NldHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/BookSets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1NldHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Genres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Libraries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Libraries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Libraries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Libraries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Libraries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shelvs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbHZzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shelvs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbHZzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shelvs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbHZzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shelvs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbHZzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shelvs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbHZzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/kodcode2/Core8/MvcCore8/MVCBooksSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n4ypb7hvtu
